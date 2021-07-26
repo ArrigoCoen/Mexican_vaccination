@@ -1,0 +1,13 @@
+name: Vacunacion
+title: Vacunacion
+username:
+account: arrigo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3175288
+bundleId: 4297471
+url: https://arrigo.shinyapps.io/Vacunacion/
+when: 1614812551.41955
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Add disease.R|app ORIGINAL.R|Correcciones_CUADRO17.txt|Extraccion morbilidad.R|Extraccion_datos.R|Fn_Correcciones_CUADRO_17_anho2015.R|Fn_Correcciones_CUADRO_17_anho2016.R|Fn_Correcciones_CUADRO_17.R|Fn_Correcciones_CUADRO_4_1_anho2016.R|oregon_grass_and_legume_seed_crops_preliminary_estimates_2017.pdf|sem01.pdf|Tabla_resumen_casos_confirmados_sarampion_2020.08.14.pdf|Testing_save/Plot_por_grupo_edad_enfermedad.png|Testing_save/test.png|Boletines|Correccion 2016|Data|Figures|Fn_Correcciones|Morbilidad|Respaldos

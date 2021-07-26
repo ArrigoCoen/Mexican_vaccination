@@ -1,0 +1,197 @@
+No.,Estado Not,Municipio Not,Estado Res,Municipio Res,Sex,Age,Ant Vac,Date exantema,Diag Ser,Diag Mol,Genotipo,Linaje,Criterio,Clasificacion
+1,Ciudad de Mexico,Alvaro Obregon,Ciudad de Mexico,Alvaro Obregon,Mujer,8,SI,23/02/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+2,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,10,NO,22/02/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+3,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,37,NO,26/02/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+4,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,39,NO,24/02/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+5,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,46,NO,25/02/20,IgM (+),Sin muestra,_,,Laboratorio,En dictaminacion
+6,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,37,NO,26/02/20,IgM (+),Sin muestra,_,,Laboratorio,En dictaminacion
+7,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,33,NO,28/02/20,IgM (+),Sin muestra,_,,Laboratorio,En dictaminacion
+8,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,22,NO,24/02/20,IgM (+),Sin muestra,_,,Laboratorio,En dictaminacion
+9,Ciudad de Mexico,Xochimilco,Ciudad de Mexico,Tlahuac,Mujer,2,NO,22/02/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+10,Ciudad de Mexico,Coyoacan,Ciudad de Mexico,Tlalpan,Mujer,1,NO,02/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+11,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,1,NO,08/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+12,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,3,NO,08/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+13,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero ,Mujer,5,NO,07/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+14,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,33,NO,03/03/20,IgM (+),PCR (+),‐,,Laboratorio,En dictaminacion
+15,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,41,NO,03/03/20,Indeterminado,PCR (+),‐,,Laboratorio,En dictaminacion
+16,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,44,NO,04/03/20,IgM (+),PCR (+),‐,,Laboratorio,En dictaminacion
+17,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero ,Mujer,26,NO,08/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+18,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,27,NO,04/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+19,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,25,NO,08/03/20,Indeterminado,PCR (+),_,,Laboratorio,En dictaminacion
+20,Ciudad de Mexico,Coyoacan,Ciudad de Mexico,Alvaro Obregon,Mujer,1,NO,09/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+21,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,42,NO,12/02/20,IgM (+),Sin muestra,_,,Laboratorio,En dictaminacion
+22,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,30,NO,13/02/20,IgM (+),Sin muestra,_,,Laboratorio,En dictaminacion
+23,Ciudad de Mexico,Benito Juarez,Ciudad de Mexico,Alvaro Obregon,Hombre,9,SI,05/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+24,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Ecatepec,Mujer,1,NO,06/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+25,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero ,Hombre,35,NO,08/03/20,Indeterminado,PCR (+),_,,Laboratorio,En dictaminacion
+26,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Hombre,9 meses,NO,09/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+27,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Hombre,41,NO,09/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+28,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Mujer,17,NO,09/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+29,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Hombre,17,NO,09/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+30,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Mujer,25,NO,09/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+31,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Hombre,22,NO,08/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+32,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Mujer,44,NO,10/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+33,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Hombre,22,NO,10/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+34,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Hombre,28,NO,11/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+35,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Mujer,22,SI,11/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+36,Ciudad de Mexico,Gustavo A. Madero ,Estado de Mexico,Nezahualcoyotl,Hombre,1,NO,08/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+37,Ciudad de Mexico,Gustavo A. Madero ,Estado de Mexico,Gustavo A. Madero,Hombre,32,NO,07/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+38,Ciudad de Mexico,Benito Juarez,Ciudad de Mexico,Cuajimalpa de Morelos,Mujer,6,NO,09/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+39,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Mujer,24,NO,09/03/20,Indeterminado,PCR (+),_,,Laboratorio,En dictaminacion
+40,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Mujer,38,NO,11/03/20,Sin muestra,PCR (+),_,,Laboratorio,En dictaminacion
+41,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Mujer,23,NO,09/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+42,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Hombre,23,NO,12/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+43,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Mujer,23,NO,12/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+44,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Hombre,21,NO,11/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+45,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Tlalnepantla,Mujer,36,NO,09/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+46,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Hombre,25,NO,09/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+47,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Gustavo A. Madero,Hombre,29,NO,11/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+48,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Mujer,19,NO,13/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+49,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Mujer,23,NO,13/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+50,Ciudad de Mexico,Gustavo A. Madero ,Ciudad de Mexico,Gustavo A. Madero,Hombre,3,SI,15/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+51,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,18,NO,13/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+52,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Tecamac,Hombre,6 meses,NO,13/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+53,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Naucalpan,Hombre,1,NO,14/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+54,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Atizapan de Zaragoza,Mujer,22,NO,17/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+55,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,26,NO,09/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+56,Ciudad de Mexico,Iztapalapa,Estado de Mexico,Nezahualcoyotl,Hombre,27,NO,13/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+57,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Iztapalapa,Mujer,36,NO,14/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+58,Ciudad de Mexico,Tlalpan,Ciudad de Mexico,Xochimilco,Mujer,1,NO,14/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+59,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Tlalnepantla,Hombre,1,NO,14/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+60,Ciudad de Mexico,Alvaro Obregon,Ciudad de Mexico,Alvaro Obregon,Hombre,23,SI,19/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+61,Ciudad de Mexico,Coyoacan,Ciudad de Mexico,Coyoacan,Hombre,6,SI,09/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+62,Ciudad de Mexico,Cuauhtemoc,Ciudad de Mexico,Miguel Hidalgo,Mujer,4 meses,NO,17/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+63,Ciudad de Mexico,Cuauhtemoc,Ciudad de Mexico,Iztapalapa,Hombre,3,NO,18/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+64,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,67,NO,14/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+65,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,28,SI,14/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+66,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Iztapalapa,Mujer,1,NO,16/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+67,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Hombre,8 meses,NO,18/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+68,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Hombre,3,NO,18/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+69,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,46,NO,19/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+70,Estado de Mexico,Ecatepec,Estado de Mexico,Tecamac,Hombre,31,NO,05/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+71,Estado de Mexico,Ecatepec,Estado de Mexico,Ecatepec,Hombre,10,NO,14/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+72,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Tlalnepantla,Hombre,4,NO,14/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+73,Ciudad de Mexico,Alvaro Obregon,Ciudad de Mexico,Cuajimalpa de Morelos,Mujer,3,NO,18/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+74,Ciudad de Mexico,Cuajimalpa de Morelos,Ciudad de Mexico,Cuajimalpa de Morelos,Hombre,23,NO,17/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+75,Ciudad de Mexico,Cuajimalpa de Morelos,Ciudad de Mexico,Cuajimalpa de Morelos,Mujer,11 meses,NO,18/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+76,Estado de Mexico,Ecatepec,Estado de Mexico,Ecatepec,Hombre,21,SI,18/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+77,Ciudad de Mexico,Alvaro Obregon,Ciudad de Mexico,Alvaro Obregon,Hombre,27,NO,23/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+78,Estado de Mexico,Ecatepec,Estado de Mexico,Ecatepec,Mujer,44,NO,19/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+79,Ciudad de Mexico,Azcapotzalco,Ciudad de Mexico,Azacapotzalco,Hombre,40,NO,19/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+80,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,4,SI,20/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+81,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,7,NO,20/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+82,Ciudad de Mexico,Coyoacan,Ciudad de Mexico,Tlalpan,Hombre,13,NO,19/03/20,Indeterminado,PCR (+),_,,Laboratorio,En dictaminacion
+83,Ciudad de Mexico,Cuajimalpa de Morelos,Ciudad de Mexico, Cuajimalpa de Morelos,Mujer,1,NO,21/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+84,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Mujer,44,NO,22/03/20,Sin muestra,PCR (+),_,,Laboratorio,En dictaminacion
+85,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,3,SI,21/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+86,Ciudad de Mexico,Cuauhtemoc,Ciudad de Mexico,Venustuano Carranza,Hombre,9 meses,NO,21/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+87,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Mujer,26,NO,20/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+88,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,11,NO,20/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+89,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,20,NO,22/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+90,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,34,NO,24/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+91,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,23,SI,25/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+92,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Tlalnepantla,Hombre,4,SI,24/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+93,Ciudad de Mexico,Xochimilco,Ciudad de Mexico,Xochimilco,Hombre,7 meses,NO,22/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+94,Campeche,Champoton,Campeche,Champoton,Mujer,5,SI,19/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+95,Ciudad de Mexico,Cuauhtemoc,Ciudad de Mexico,Cuauhtemoc,Mujer,1,NO,24/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+96,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Iztapalapa,Hombre,1,NO,23/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+97,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Tlahuac,Mujer,1,SI,24/03/20,Indeterminado,PCR (+),_,,Laboratorio,En dictaminacion
+98,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Iztapalapa,Mujer,10 meses,NO,23/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+99,Ciudad de Mexico,Iztapalapa,Estado de Mexico,Chimalhuacan,Hombre,5 meses,NO,24/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+100,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Iztapalapa,Hombre,1,NO,26/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+101,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Mujer,5 meses,NO,25/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+102,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,9,NO,29/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+103,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Hombre,2,NO,26/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+104,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Hombre,1,NO,28/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+105,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Mujer,27,NO,27/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+106,Ciudad de Mexico,Milpa Alta,Ciudad de Mexico,Milpa Alta,Hombre,33,NO,27/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+107,Ciudad de Mexico,Xochimilco,Ciudad de Mexico,Xochimilco,Mujer,3,NO,28/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+108,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Hombre,3,SI,26/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+109,Estado de Mexico,Toluca,Estado de Mexico,Toluca,Mujer,33,SI,21/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+110,Estado de Mexico,Tlalnepantla,Estado de Mexico,Tlalnepantla,Mujer,12,SI,21/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+111,Estado de Mexico,Toluca,Estado de Mexico,Toluca,Mujer,8,SI,20/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+112,Ciudad de Mexico,Alvaro Obregon,Ciudad de Mexico,Alvaro Obregon,Hombre,11,NO,20/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+113,Ciudad de Mexico,Cuauhtemoc,Ciudad de Mexico,Cuauhtemoc,Mujer,25,NO,27/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+114,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,30,NO,27/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+115,Ciudad de Mexico,Cuajimalpa de Morelos,Ciudad de Mexico,Cuajimalpa de Morelos,Mujer,7 meses,NO,17/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+116,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,35,NO,27/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+117,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Tlalnepantla,Mujer,27,NO,27/03/20,Sin muestra,PCR (+),_,,Laboratorio,En dictaminacion
+118,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,3 meses,NO,31/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+119,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,18,NO,31/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+120,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Cuajimalpa de Morelos,Hombre,3 meses,NO,02/04/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+121,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Iztapalapa,Hombre,6,SI,01/04/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+122,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Iztapalapa,Hombre,38,NO,01/04/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+123,Ciudad de Mexico,Xochimilco,Ciudad de Mexico,Xochimilco,Mujer,25,SI,24/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+124,Ciudad de Mexico,Cuajimalpa de Morelos,Ciudad de Mexico,Cuajimalpa de Morelos,Mujer,26,NO,26/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+125,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Ecatepec,Hombre,4,NO,29/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+126,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,44,NO,02/04/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+127,Ciudad de Mexico,Cuauhtemoc,Ciudad de Mexico,Gustavo A. Madero,Mujer,7 meses,NO,27/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+128,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,4,SI,01/04/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+129,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,1,NO,02/04/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+130,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,25,NO,02/04/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+131,Ciudad de Mexico,Iztacalco,Ciudad de Mexico,Iztacalco,Hombre,30,SI,05/04/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+132,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Gustavo A. Madero,Hombre,24,NO,06/04/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+133,Ciudad de Mexico,Coyoacan,Ciudad de Mexico,Coyoacan,Mujer,18,NO,31/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+134,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Mujer,29,NO,08/04/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+135,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,14,SI,07/04/20,Indeterminado,PCR (+),_,,Laboratorio,En dictaminacion
+136,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,2,NO,08/04/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+137,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Ecatepec,Mujer,10 meses,NO,06/04/20,IgM(+),PCR (+),D8,,Laboratorio,En dictaminacion
+138,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Ecatepec,Hombre,11,NO,07/04/20,IgM(+),PCR (+),D8,,Laboratorio,En dictaminacion
+139,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Mujer,8 meses,NO,07/04/20,IgM(+),PCR (+),_,,Laboratorio,En dictaminacion
+140,Estado de Mexico,Tlalnepantla,Ciudad de Mexico,Gustavo A. Madero,Mujer,31,SI,28/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+141,Estado de Mexico,Ecatepec,Estado de Mexico,Ecatepec,Hombre,41,NO,29/03/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+142,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,27,NO,30/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+143,Estado de Mexico,Zinacantepec,Estado de Mexico,Zinacantepec,Mujer,6,NO,28/03/20,IgM(+),PCR (+),D8,,Laboratorio,En dictaminacion
+144,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,24,NO,02/04/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+145,Estado de Mexico,Ecatepec,Estado de Mexico,Ecatepec,Mujer,49,NO,27/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+146,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,25,NO,07/04/20,Sin muestra,PCR (+),_,,Laboratorio,En dictaminacion
+147,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Cuauhtemoc,Hombre,26,NO,11/04/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+148,Ciudad de Mexico,Miguel Hidalgo,Ciudad de Mexico,Miguel Hidalgo,Hombre,15,SI,11/04/20,Sin muestra,PCR (+),_,,Laboratorio,En dictaminacion
+149,Ciudad de Mexico,Cuauhtemoc,Ciudad de Mexico,Gustavo A. Madero,Hombre,4,NO,12/04/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+150,Ciudad de Mexico,Cuauhtemoc,Ciudad de Mexico,Cuauhtemoc,Hombre,28,NO,10/04/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+151,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Tlalnepantla,Mujer,35,NO,29/03/20,Sin muestra,PCR (+),_,,Laboratorio,En dictaminacion
+152,Ciudad de Mexico,Benito Juarez,Estado de Mexico,Nezahualcoyotl,Hombre,1,SI,10/04/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+153,Campeche,Champoton,Campeche,Champoton,Mujer,8 meses,NO,10/04/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+154,Ciudad de Mexico,Coyoacan,Ciudad de Mexico,Coyoacan,Hombre,1,NO,22/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+155,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Iztapalapa,Hombre,9,SI,20/04/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+156,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,44,SI,28/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+157,Estado de Mexico,Ecatepec,Estado de Mexico,Ecatepec,Mujer,38,NO,30/03/20,IgM (‐),PCR (+),_,,Laboratorio,En dictaminacion
+158,Estado de Mexico,Cuautitlan,Estado de Mexico,Cuautitlan,Mujer,6,NO,28/03/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+159,Estado de Mexico,Tlalnepantla,Estado de Mexico,Tlalnepantla,Mujer,6,NO,28/03/20,Sin muestra,PCR (+),_,,Laboratorio,En dictaminacion
+160,Ciudad de Mexico,Cuauhtemoc,Estado de Mexico,Nezahualcoyotl,Mujer,11 meses,NO,20/04/20,IgM (+),PCR (+),_,,Laboratorio,En dictaminacion
+161,Estado de Mexico,Ecatepec,Estado de Mexico,Ecatepec,Hombre,1,SI,15/03/20,IgM (+),Sin muestra,_,,Laboratorio,En dictaminacion
+162,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,25,SI,21/04/20,Indeterminado,PCR (+),D8,,Laboratorio,En dictaminacion
+163,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre ,10 meses,NO,24/04/20,IgM (+),PCR (+),‐,‐,Laboratorio,En dictaminacion
+164,Ciudad de Mexico,Iztapalapa,Ciudad de Mexico,Iztapalapa,Mujer,45,NO,01/05/20,IgM (‐),PCR (+),‐,‐,Laboratorio,En dictaminacion
+165,Ciudad de Mexico,Benito Juarez,Ciudad de Mexico,Alvaro Obregon,Hombre,49,SI,13/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+166,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,47,SI,11/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+167,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,32,NO,12/03/20,IgM (‐),PCR (+),D8,,Laboratorio,En dictaminacion
+168,Ciudad de Mexico,Gustavo A. Madero,Estado de Mexico,Zumpango,Mujer,10,NO,26/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+169,Estado de Mexico,Tlalnepantla,Estado de Mexico,Tlalnepantla,Hombre,20,NO,11/04/20,Sin muestra,PCR (+),‐,‐,Laboratorio,En dictaminacion
+170,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Cuauhtemoc,Mujer,11 meses,NO,13/04/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+171,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,24,NO,15/04/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+172,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,44,NO,19/04/20,Sin muestra,PCR (+),D8,,Laboratorio,En dictaminacion
+173,Estado de Mexico,Tlalnepantla,Estado de Mexico,Tlalnepantla,Mujer,10,NO,15/04/20,IgM (+),Sin muestra,‐,‐,Laboratorio,En dictaminacion
+174,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Mujer,8,SI,26/03/20,IgM (+),PCR (+),D8,,Laboratorio,En dictaminacion
+175,Estado de Mexico,Zumpango,Estado de Mexico,Huehuetoca,Hombre,1,NO,22/03/20,Sin muestra,PCR (+),‐,‐,Laboratorio,En dictaminacion
+176,Estado de Mexico,Ecatepec,Estado de Mexico,Ecatepec,Hombre,7,SI,11/04/20,IgM (+),PCR (+),‐,‐,Laboratorio,En dictaminacion
+177,Estado de Mexico,Tlalnepantla,Estado de Mexico,Tlalnepantla,Hombre,1,NO,07/04/20,IgM (+),PCR (+),‐,‐,Laboratorio,En dictaminacion
+178,Tabasco,Balancan,Tabasco,Balancan,Hombre,11,SI,13/05/20,IgM (‐),PCR (+),‐,‐,Laboratorio,En dictaminacion
+179,Ciudad de Mexico,Venustiano Carranza,Estado de Mexico,Nezahualcoyotl,Mujer,10 meses,NO,31/05/20,IgM (‐),PCR (+),‐,‐,Laboratorio,En dictaminacion
+180,Estado de Mexico,Tlalnepantla,Estado de Mexico,Tlalnepantla,Hombre,7,NO,07/04/20,IgM (‐),PCR (+),‐,‐,Laboratorio,En dictaminacion
+181,Estado de Mexico,Chalco,Estado de Mexico,Chalco,Hombre,1,NO,12/04/20,IgM (+),PCR (+),‐,‐,Laboratorio,En dictaminacion
+182,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,21,NO,21/02/20,Indeterminado Sin muestra,‐,‐,,,En dictaminacion
+183,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,37,NO,13/02/20,Indeterminado Sin muestra,‐,‐,,,En dictaminacion
+184,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,37,NO,18/02/20,Indeterminado Sin muestra,‐,‐,,,En dictaminacion
+185,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,38,NO,20/03/20,Indeterminado Sin muestra,‐,‐,,,En dictaminacion
+186,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,6,NO,23/03/20,IgM (+),PCR (‐),‐,‐,,En dictaminacion
+187,Estado de Mexico,Cuautitlan,Estado de Mexico,Cuautitlan,Mujer,4,NO,25/03/20,IgM (+),Sin muestra,‐,‐,,En dictaminacion
+188,Estado de Mexico,Cuautitlan,Estado de Mexico,Cuautitlan,Mujer,10,SI,21/03/20,IgM (+),Sin muestra,‐,‐,,En dictaminacion
+189,Estado de Mexico,Chalco,Estado de Mexico,Chalco,Mujer,9 meses,NO,12/05/20,IgM (+),PCR (‐),‐,‐,,En dictaminacion
+190,Estado de Mexico,Cuautitlan,Estado de Mexico,Cuautitlan,Hombre,3,NO,21/03/20,IgM (+),Sin muestra,‐,‐,,En dictaminacion
+191,Estado de Mexico,Ecatepec,Estado de Mexico,Ecatepec,Mujer,9,NO,25/03/20,Sin muestra Sin muestra,‐,‐,,,En dictaminacion
+192,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,43,NO,13/02/20,Indeterminado Sin muestra,‐,‐,,,En dictaminacion
+193,Ciudad de Mexico,Gustavo A. Madero,Ciudad de Mexico,Gustavo A. Madero,Hombre,17,SI,01/04/20,Indeterminado,PCR (‐),‐,‐,,En dictaminacion
+194,Estado de Mexico,Cuautitlan,Estado de Mexico,Cuautitlan,Mujer,42,NO,04/04/20,Sin muestra Sin muestra,‐,‐,,,En dictaminacion
+195,Estado de Mexico,Tlalnepantla,Estado de Mexico,Tlalnepantla,Hombre,22,SI,26/03/20,IgM (+),Sin muestra,‐,‐,Laboratorio,En dictaminacion
+196,Estado de Mexico,Ecatepec,Estado de Mexico,Tecamac,Hombre,50,SI,10/03/20,IgM (‐),PCR (+),‐,‐,,En dictaminacion
